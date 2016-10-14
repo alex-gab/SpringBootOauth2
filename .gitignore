@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.mvn/
+SpringBootOauth2.iml
+mvnw
+mvnw.cmd
+src/main/resources/templates/
+target/
